@@ -1,0 +1,1 @@
+# cubebosses-resourcepack
